@@ -15,7 +15,7 @@ This repository contains a movie recommendation system using collaborative filte
 ## Setup Instructions
 1. Clone the repository:
    
-   ``` git clone https://github.com/yourusername/movie-recommendation-system.git‘``
+   ``` git clone https://github.com/Clasikpaige/movie-recommendation-system.git‘``
 change directory/
    cd movie-recommendation-system```
 
