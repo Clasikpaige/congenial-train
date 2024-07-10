@@ -51,4 +51,3 @@ Run the flask app
 
 
 
-This structure helps organize your codebase, making it easy to manage and extend. Each directory and file has a specific purpose, ensuring the project is modular and maintainable.
