@@ -1,5 +1,5 @@
-## congenial-train
-# Movie Recommendation System
+# congenial-train
+## Movie Recommendation System
 
 This repository contains a movie recommendation system using collaborative filtering.
 
